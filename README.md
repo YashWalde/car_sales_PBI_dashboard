@@ -1,1 +1,2 @@
-# car_sales_PBI_dashboard
+📊 Power BI Sales Dashboard
+This Power BI dashboard provides a comprehensive analysis of product sales performance across multiple years. Key metrics such as total sales ($9.6M), total profit ($3.83M), and average profit margin (39.84%) are prominently featured. Visual elements include bar charts, pie charts, and map visuals that allow for deep insights into sales by year, product line, and geography. The dashboard also highlights top and bottom selling products, most ordered items, and allows filtering by year, city, employee, and product line—making it an interactive and dynamic tool for business intelligence and decision-making.
